@@ -1,11 +1,7 @@
-# ai_diet_nutritionist
+# AI_diet_nutritionist
 ai_diet_nutritionist to get all calories from image
 
 
-
-<h1>Youtube video summarization
-</h1>
-This project demonstrates how to sumarize by youtube video link
 <h1>Requirements</h1>
 
     Python 3.8+
