@@ -1,4 +1,4 @@
-# AI_diet_nutritionist
+# AI_diet_nutritionist (build with Gemini)
 ai_diet_nutritionist to get all calories from image
 
 
